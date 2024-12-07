@@ -1,0 +1,18 @@
+sourceCode;sourceName;sourceFrequency;sourceAutoAssignedConceptIds;matchScore;targetConceptId;targetConceptName;targetVocabularyId;targetDomainId;targetStandardConcept;targetChildCount;targetParentCount;targetConceptClassId;targetConceptCode;targetValidStartDate;targetValidEndDate;targetInvalidReason
+;Male;-1;;1.0;8507;MALE;Gender;Gender;S;0;0;Gender;M;19700101;20991231;
+;Organism;-1;;1.0;4259632;Organism;SNOMED;Observation;S;6;0;Organism;410607006;20040731;20991231;
+;NEWBORN;-1;;1.0;4046034;Newborn;SNOMED;Relationship;S;0;1;Social Context;133933007;20020131;20991231;
+;EMERGENCY;-1;;1.0;4093606;Emergency;SNOMED;Meas Value;S;1;1;Qualifier Value;25876001;20020131;20991231;
+;ELECTIVE;-1;;1.0;4013731;Elective;SNOMED;Meas Value;S;1;1;Qualifier Value;103390000;20020131;20991231;
+;Event;-1;;1.0;4156363;Event;SNOMED;Observation;S;42;0;Event;272379006;20020131;20991231;
+;Quant Branded Drug;-1;;0.555040180683136;4224481;Larimus fasciatus;SNOMED;Observation;S;0;1;Organism;84868004;20020131;20991231;
+;Female;-1;;1.0;8532;FEMALE;Gender;Gender;S;0;0;Gender;F;19700101;20991231;
+;Clinical Finding;-1;;1.0;441840;Clinical finding;SNOMED;Observation;S;214;0;Clinical Finding;404684003;20040131;20991231;
+;Morph Abnormality;-1;;0.6124445796012878;4219275;Sting;SNOMED;Observation;S;0;1;Morph Abnormality;72587008;20020131;20991231;
+;Branded Drug;-1;;0.6718190312385559;4224481;Larimus fasciatus;SNOMED;Observation;S;0;1;Organism;84868004;20020131;20991231;
+;Clinical Observation;-1;;0.8081912398338318;4206580;Clinical observation regime;SNOMED;Observation;S;2;1;Procedure;309466006;20020131;20991231;
+;Context-dependent;-1;;0.8975867033004761;4187630;Finding with explicit context;SNOMED;Observation;S;124;1;Context-dependent;413350009;20050131;20991231;
+;Disorder;-1;;1.0;4274025;Disease;SNOMED;Condition;S;165;1;Disorder;64572001;20020131;20991231;
+;Clinical Drug;-1;;0.8190160989761353;4090378;Clinical drug trial;SNOMED;Observation;S;2;1;Procedure;185922005;20020131;20991231;
+;Quant Clinical Drug;-1;;0.6606414318084717;4090378;Clinical drug trial;SNOMED;Observation;S;2;1;Procedure;185922005;20020131;20991231;
+;Observable Entity;;;;4181663;Observable entity;SNOMED;Observation;S;;;Obsevable Entity;363787002;20020131;20991231;
